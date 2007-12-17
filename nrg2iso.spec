@@ -10,7 +10,6 @@ Source:		http://gregory.kokanosky.free.fr/v4/linux/%{name}-%{version}.tar.bz2
 URL:		http://gregory.kokanosky.free.fr/v4/linux/nrg2iso.en.html
 License:	GPL
 Group:		Archiving/Other
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description 
 Nrg2Iso is a linux utility for converting cd images generated
