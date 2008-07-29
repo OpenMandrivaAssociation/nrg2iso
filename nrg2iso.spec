@@ -1,6 +1,6 @@
 %define name	nrg2iso
 %define version	0.4
-%define release	%mkrel 2
+%define release	%mkrel 4
 
 Name:		%{name}
 Version:	%{version}
