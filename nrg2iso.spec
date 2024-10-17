@@ -3,7 +3,7 @@ Version:	0.4
 Release:	9
 Summary:	Convert Nero CD Images to ISO
 Source0:	http://gregory.kokanosky.free.fr/v4/linux/%{name}-%{version}.tar.bz2
-URL:		http://gregory.kokanosky.free.fr/v4/linux/nrg2iso.en.html
+URL:		https://gregory.kokanosky.free.fr/v4/linux/nrg2iso.en.html
 License:	GPL
 Group:		Archiving/Other
 
